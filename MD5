@@ -1,8 +1,8 @@
-b649980cf0151118781a3275f78b8ec4 *DESCRIPTION
+63ae6a867bc1cd2a5f69bd800d52a4c1 *DESCRIPTION
 85fdff7d86db82308165239933226d79 *LICENSE
 ba29e732f32568791f8cd6042b8c5537 *LICENSE.note
 62903f5365f90c52ecbfde98bbaecb3f *NAMESPACE
-6330e66345874e66cde57884336e9bac *NEWS.md
+8a345452f16b99a2532d44cd855297f7 *NEWS.md
 fde91b4cbb1bcfdadfc5a7acbd6d4398 *R/aggregate_scores.R
 3b45f71f94053d7c77b7a9443f7b825b *R/data.R
 2d1b463212b2cda20f832c9e7e2e7940 *R/extent.R
@@ -10,8 +10,8 @@ f4bbe36e032c5362e754cd6f1a3d7494 *R/load_composite_imd.R
 9b422011007a8b7d4a53f7877e7d3630 *R/pop_weighted_scores.R
 90324519f09e087b2c7bc34b57e3c46e *R/proportion.R
 bf84a966e192336959d442d4c2fbfa30 *R/sysdata.rda
-71278ead8fe896f241d6d8ec93bcd69c *README.md
-9e4aea02a9a6a28e1f91276884f41900 *data/cni_england_ward17.rda
+1ac5237f7b7e390e0ee755f995764d93 *README.md
+8c23c418d196b31bc7f041e0d77c7785 *data/cni_england_ward17.rda
 3c84ba8c67ff804bc59f5088756576af *data/cni_northern_ireland_soa11.rda
 d89f2308aef46a39cc576274877abc1e *data/cni_scotland_iz11.rda
 74eb52771c0eb380c30f33526d8c86d9 *data/cni_wales_msoa11.rda
